@@ -1,0 +1,5 @@
+/Users/weslie/CLionProjects/LearnCPL2/homework2/cmake-build-debug/CMakeFiles/factorial.dir
+/Users/weslie/CLionProjects/LearnCPL2/homework2/cmake-build-debug/CMakeFiles/single.dir
+/Users/weslie/CLionProjects/LearnCPL2/homework2/cmake-build-debug/CMakeFiles/inverse.dir
+/Users/weslie/CLionProjects/LearnCPL2/homework2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/weslie/CLionProjects/LearnCPL2/homework2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

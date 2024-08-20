@@ -1,0 +1,72 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"D:/mingwDownload/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include",
+						"D:/mingwDownload/mingw64/include",
+						"D:/mingwDownload/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0/include-fixed",
+						"D:/mingwDownload/mingw64/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"D:/mingwDownload/mingw64/lib/gcc/x86_64-w64-mingw32/14.1.0",
+						"D:/mingwDownload/mingw64/lib/gcc",
+						"D:/mingwDownload/mingw64/x86_64-w64-mingw32/lib",
+						"D:/mingwDownload/mingw64/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "D:/mingwDownload/mingw64/bin/gcc.exe",
+				"version" : "14.1.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "D:/mingwDownload/mingw64/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

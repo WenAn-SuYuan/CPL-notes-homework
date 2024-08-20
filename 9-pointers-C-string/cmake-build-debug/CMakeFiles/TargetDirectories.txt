@@ -1,0 +1,6 @@
+/Users/weslie/CLionProjects/LearnCPL2/9-pointers-C-string/cmake-build-debug/CMakeFiles/str-literals.dir
+/Users/weslie/CLionProjects/LearnCPL2/9-pointers-C-string/cmake-build-debug/CMakeFiles/strlen.dir
+/Users/weslie/CLionProjects/LearnCPL2/9-pointers-C-string/cmake-build-debug/CMakeFiles/strcpy.dir
+/Users/weslie/CLionProjects/LearnCPL2/9-pointers-C-string/cmake-build-debug/CMakeFiles/strcmp.dir
+/Users/weslie/CLionProjects/LearnCPL2/9-pointers-C-string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/weslie/CLionProjects/LearnCPL2/9-pointers-C-string/cmake-build-debug/CMakeFiles/rebuild_cache.dir

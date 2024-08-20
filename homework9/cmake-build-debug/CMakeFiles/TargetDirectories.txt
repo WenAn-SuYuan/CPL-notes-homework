@@ -1,0 +1,5 @@
+/Users/weslie/CLionProjects/LearnCPL2/homework9/cmake-build-debug/CMakeFiles/strs_cat.dir
+/Users/weslie/CLionProjects/LearnCPL2/homework9/cmake-build-debug/CMakeFiles/strs_interleaf.dir
+/Users/weslie/CLionProjects/LearnCPL2/homework9/cmake-build-debug/CMakeFiles/parse.dir
+/Users/weslie/CLionProjects/LearnCPL2/homework9/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/weslie/CLionProjects/LearnCPL2/homework9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
